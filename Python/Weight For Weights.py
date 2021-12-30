@@ -14,13 +14,12 @@ def order_weight(strng):
             else:
                 if(sort_alpha(current_value, string[currentPosition - 1])):
                     string[currentPosition] = string[currentPosition - 1]
-                currentPosition -= 1
-            print("he")
+                    currentPosition -= 1
+                else:
+                    break
         
         string[currentPosition] = current_value
-        print(string, '\n')
             
-    print(string)
     return ' '.join(string)
 
 def sort_alpha(number1, number2):
@@ -29,7 +28,10 @@ def sort_alpha(number1, number2):
             return False
         elif(number_one < number_two):
             return True
-
+            
+    if(len(str(number1)) > len(str(number2))):
+        return False
+         
     return True
 
 def sum_digits(number):
