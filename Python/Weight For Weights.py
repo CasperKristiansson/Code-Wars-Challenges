@@ -1,4 +1,4 @@
-# Not completed, https://www.codewars.com/kata/55c6126177c9441a570000cc/train/python
+# https://www.codewars.com/kata/55c6126177c9441a570000cc/train/python
 
 def order_weight(strng):
     string = strng.split()
@@ -39,3 +39,4 @@ def sum_digits(number):
     for digit in str(number):
         current_value += int(digit)
     return current_value
+    
