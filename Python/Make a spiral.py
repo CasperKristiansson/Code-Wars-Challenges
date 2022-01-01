@@ -57,4 +57,9 @@ def spiralize(size):
             if(should_break):
                 break
 
+    for row in spiral:
+        print(row)
+
     return spiral
+
+spiralize(10)
