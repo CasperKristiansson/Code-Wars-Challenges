@@ -1,4 +1,42 @@
-# Not completed https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5/train/python
+# https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5/train/python
+# Based on https://stackoverflow.com/questions/493174/is-there-a-way-to-convert-number-words-to-integers
+
+def parse_int(string):
+    
+    string = string.replace(' and ', ' ').replace('-', ' ').split()
+
+    units = [
+        "zero", "one", "two", "three", "four", "five", "six", "seven", "eight",
+        "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen",
+        "sixteen", "seventeen", "eighteen", "nineteen"
+    ]
+
+    tens = ["", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"]
+
+    scales = ["hundred", "thousand", "million", "billion", "trillion"]
+    
+    numwords = {}
+    
+    for index, word in enumerate(units):
+        numwords[word] = (1, index)
+    for index, word in enumerate(tens):
+        numwords[word] = (1, index * 10)
+    for index, word in enumerate(scales):
+        numwords[word] = (10 ** (index * 3 or 2), 0)
+
+    current = result = 0
+    
+    for word in string:
+        scale, increment = numwords[word]
+
+        current = current * scale + increment
+        if scale > 100:
+            result += current
+            current = 0
+
+    return result + current
+
+# Not working, Problem: 6 100 66 1000 = 666,000
 
 def parse_int(string):
     print(string)

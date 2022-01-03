@@ -10,7 +10,7 @@
 
 ### <a name="5KYU">5 KYU</a>
 
-### <a name="4KYU">5 KYU</a>
+### <a name="4KYU">4 KYU</a>
 
 ### <a name="3KYU">3 KYU</a>
 

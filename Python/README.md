@@ -26,7 +26,7 @@
 - [Weight For Weights](5KYU/WeightForWeights.py) - [Codewars](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
 
 
-### <a name="4KYU">5 KYU</a>
+### <a name="4KYU">4 KYU</a>
 - [Most Frequently Used Words in a Text](4KYU/MostFrequentlyUsedWordsInAText.py) - [Codewars](https://www.codewars.com/kata/51e056fe544cf36c410000fb)
 - [Next Smaller Number With The Same Digits](4KYU/NextSmallerNumberWithTheSameDigits.py) - [Codewars](https://www.codewars.com/kata/5659c6d896bc135c4c00021e)
 - [ParseInt() Reloaded!](4KYU/ParseIntReloaded.py) - [Codewars](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5)
