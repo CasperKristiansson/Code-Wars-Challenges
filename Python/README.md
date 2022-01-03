@@ -32,6 +32,7 @@
 - [ParseInt() Reloaded!](4KYU/ParseIntReloaded.py) - [Codewars](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5)
 - [Range Extraction](4KYU/RangeExtraction.py) - [Codewars](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)
 - [Sudoku Solution Validator](4KYU/SudokuSolutionValidator.py) - [Codewars](https://www.codewars.com/kata/529bf0e9bdf7657179000008)
+- [Explosive Sum](4KYU/ExplosiveSum.py) - [Codewars](https://www.codewars.com/kata/52ec24228a515e620b0005ef)
 
 
 ### <a name="3KYU">3 KYU</a>
