@@ -6,7 +6,7 @@
 ### <a name="7KYU">7 KYU</a>
 
 ### <a name="6KYU">6 KYU</a>
-- [Convert String To Camel Case](7KYU/ConvertStringToCamelCase.java) - [CodeWars](https://www.codewars.com/kata/517abf86da9663f1d2000003)
+- [Convert String To Camel Case](6KYU/ConvertStringToCamelCase.java) - [CodeWars](https://www.codewars.com/kata/517abf86da9663f1d2000003)
 
 ### <a name="5KYU">5 KYU</a>
 

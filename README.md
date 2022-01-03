@@ -11,5 +11,5 @@
 - Honor Percentile: Top 17.802%
 - Total Completed Kata: 22
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> [Python Solutions](Python/README.md)
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> [Java Solutions](Java/README.md)
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> [Python Solutions](Python)
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> [Java Solutions](Java)

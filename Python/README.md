@@ -19,11 +19,11 @@
 ### <a name="5KYU">5 KYU</a>
 - [Directions Reduction](5KYU/DirectionsReduction.py) - [Codewars](https://www.codewars.com/kata/550f22f4d758534c1100025a)
 - [Extract the Domain Name from a URL](5KYU/ExtractTheDomainNameFromAURL.py) - [Codewars](https://www.codewars.com/kata/514a024011ea4fb54200004b)
-- [Maximum Sub Array Sym](5KYU/MaximumSubArraySym.py) - [Codewars](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
+- [Maximum Sub Array Sum](5KYU/MaximumSubArraySum.py) - [Codewars](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
 - [Perimeter of Squares In a Rectangle](5KYU/PerimeterOfSquaresInARectangle.py) - [Codewars](https://www.codewars.com/kata/559a28007caad2ac4e000083)
 - [Product of Consecutive Fib Numbers](5KYU/ProductOfConsecutiveFibNumbers.py) - [Codewars](https://www.codewars.com/kata/5541f58a944b85ce6d00006a)
 - [Rot13](5KYU/Rot13.py) - [Codewars](https://www.codewars.com/kata/530e15517bc88ac656000716)
-- [Weight For Weight](5KYU/WeightForWeight.py) - [Codewars](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
+- [Weight For Weights](5KYU/WeightForWeights.py) - [Codewars](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
 
 
 ### <a name="4KYU">5 KYU</a>
