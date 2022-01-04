@@ -36,6 +36,9 @@
 - [Product of Consecutive Fib Numbers](5KYU/ProductOfConsecutiveFibNumbers.py) - [Codewars](https://www.codewars.com/kata/5541f58a944b85ce6d00006a)
 - [Rot13](5KYU/Rot13.py) - [Codewars](https://www.codewars.com/kata/530e15517bc88ac656000716)
 - [Weight For Weights](5KYU/WeightForWeights.py) - [Codewars](https://www.codewars.com/kata/55c6126177c9441a570000cc)
+- [Simple Pig Latin](5KYU/SimplePigLatin.py) - [Codewars](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
+- [Moving Zeroes To The End](5KYU/MovingZeroesToTheEnd.py) - [Codewars](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
+- [Human Readable Time](5KYU/HumanReadableTime.py) - [Codewars](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 
 
 ### <a name="4KYU">4 KYU</a>
