@@ -5,6 +5,15 @@
 
 ### <a name="7KYU">7 KYU</a>
 - [Isograms](7KYU/Isograms.py) - [Codewars](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
+- [Vowel Count](7KYU/VowelCount.py) - [Codewars](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
+- [Disemvowel Trolls](7KYU/DisemvowelTrolls.py) - [Codewars](https://www.codewars.com/kata/52fba66badcd10859f00097e)
+- [Square Every Digit](7KYU/SquareEveryDigit.py) - [Codewars](https://www.codewars.com/kata/546e2562b03326a88e000020)
+- [Highest and Lowest](7KYU/HighestAndLowest.py) - [Codewars](https://www.codewars.com/kata/554b4ac871d6813a03000035)
+- [Get the Middle Character](7KYU/GetTheMiddleCharacter.py) - [Codewars](https://www.codewars.com/kata/56747fd5cb988479af000028)
+- [You're a square!](7KYU/You'reASquare!.py) - [Codewars](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
+- [Descending Order](7KYU/DescendingOrder.py) - [Codewars](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
+- [Mumbling](7KYU/Mumbling.py) - [Codewars](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
+- [Shortest Word](7KYU/ShortestWord.py) - [Codewars](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
 
 
 ### <a name="6KYU">6 KYU</a>
@@ -23,7 +32,7 @@
 - [Perimeter of Squares In a Rectangle](5KYU/PerimeterOfSquaresInARectangle.py) - [Codewars](https://www.codewars.com/kata/559a28007caad2ac4e000083)
 - [Product of Consecutive Fib Numbers](5KYU/ProductOfConsecutiveFibNumbers.py) - [Codewars](https://www.codewars.com/kata/5541f58a944b85ce6d00006a)
 - [Rot13](5KYU/Rot13.py) - [Codewars](https://www.codewars.com/kata/530e15517bc88ac656000716)
-- [Weight For Weights](5KYU/WeightForWeights.py) - [Codewars](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
+- [Weight For Weights](5KYU/WeightForWeights.py) - [Codewars](https://www.codewars.com/kata/55c6126177c9441a570000cc)
 
 
 ### <a name="4KYU">4 KYU</a>
