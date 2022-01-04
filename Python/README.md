@@ -23,7 +23,10 @@
 - [Stop gninnipS My sdroW!](6KYU/StopGninnipSMySdroW!.py) - [Codewars](https://www.codewars.com/kata/5264d2b162488dc400000001)
 - [Playing With Digits](6KYU/PlayingWithDigits.py) - [Codewars](https://www.codewars.com/kata/5552101f47fc5178b1000050)
 - [Break CamelCase](6KYU/BreakCamelCase.py) - [Codewars](https://www.codewars.com/kata/5208f99aee097e6552000148)
-
+- [Multiples of 3 or 5](6KYU/MultiplesOf3Or5.py) - [Codewars](https://www.codewars.com/kata/514b92a657cdc65150000006)
+- [Find the Odd Int](6KYU/FindTheOddInt.py) - [Codewars](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+- [Array.Diff](6KYU/Array.Diff.py) - [Codewars](https://www.codewars.com/kata/523f5d21c841566fde000009)
+- [Who Likes It?](6KYU/WhoLikesIt.py) - [Codewars](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 
 ### <a name="5KYU">5 KYU</a>
 - [Directions Reduction](5KYU/DirectionsReduction.py) - [Codewars](https://www.codewars.com/kata/550f22f4d758534c1100025a)
