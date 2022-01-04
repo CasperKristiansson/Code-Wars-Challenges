@@ -48,8 +48,9 @@
 - [Range Extraction](4KYU/RangeExtraction.py) - [Codewars](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)
 - [Sudoku Solution Validator](4KYU/SudokuSolutionValidator.py) - [Codewars](https://www.codewars.com/kata/529bf0e9bdf7657179000008)
 - [Explosive Sum](4KYU/ExplosiveSum.py) - [Codewars](https://www.codewars.com/kata/52ec24228a515e620b0005ef)
-
-
+- [Snail](4KYU/Snail.py) - [Codewars](https://www.codewars.com/kata/52774a314c2333f80b0000a8)
+- [Human Readable Duration Format](4KYU/HumanReadableDurationFormat.py) - [Codewars](https://www.codewars.com/kata/52756e3f7cb1f4971f000079)
+- [Strip Comments](4KYU/StripComments.py) - [Codewars](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
 ### <a name="3KYU">3 KYU</a>
 - [Battleship Field Validator](3KYU/BattleshipFieldValidator.py) - [Codewars](https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7)
 - [Make a Spiral](3KYU/MakeASpiral.py) - [Codewars](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6)
