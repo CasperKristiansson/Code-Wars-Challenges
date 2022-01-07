@@ -53,6 +53,8 @@
 - [Strip Comments](4KYU/StripComments.py) - [Codewars](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
 - [Next Bigger Number With The Same Digits](4KYU/NextBiggerNumberWithTheSameDigits.py) - [Codewars](https://www.codewars.com/kata/55983863da40caa2c900004e)
 - [The Observed PIN](4KYU/TheObservedPIN.py) - [Codewars](https://www.codewars.com/kata/5263c6999e0f40dee200059d)
+- [Permutations](4KYU/Permutations.py) - [Codewars](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
+- [Sum Of Intervals](4KYU/SumOfIntervals.py) - [Codewars](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
 
 
 ### <a name="3KYU">3 KYU</a>
