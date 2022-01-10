@@ -2,9 +2,10 @@ def permutations(string):
     permutations = permutation(list(string))
     for i in range(len(permutations)):
         permutations[i] = ''.join(permutations[i])
-        
+
     return sorted(set(permutations))
-    
+
+
 def permutation(permutation_list):
     if len(permutation_list) == 1:
         return [permutation_list]

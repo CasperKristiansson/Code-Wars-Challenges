@@ -60,6 +60,7 @@
 ### <a name="3KYU">3 KYU</a>
 - [Battleship Field Validator](3KYU/BattleshipFieldValidator.py) - [Codewars](https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7)
 - [Make a Spiral](3KYU/MakeASpiral.py) - [Codewars](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6)
+- [Rail Fence Cipher Encoding and Decoding](3KYU/RailFenceCipherEncodingAndDecoding.py) - [Codewars](https://www.codewars.com/kata/58c5577d61aefcf3ff000081)
 
 
 ### <a name="2KYU">2 KYU</a>
