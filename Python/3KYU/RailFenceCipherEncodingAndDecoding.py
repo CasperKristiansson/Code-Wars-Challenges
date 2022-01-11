@@ -1,4 +1,17 @@
 def encode_rail_fence_cipher(string, n):
+    """
+    The string can be encoded by navigating the rail fence and
+    appending the characters to the different dictionary positions
+
+    "WEAREDISCOVEREDFLEEATONCE" -> WECRLTEERDSOEEFEAOCAIVDEN
+
+    W       E       C       R       L       T       E
+      E   R   D   S   O   E   E   F   E   A   O   C
+        A       I       V       D       E       N
+
+    That means the counter will go from the top to the bottom and change
+    direction. We can then in the order of the dictionary add them together.
+    """
     if n == 1:
         return string
 
@@ -25,57 +38,71 @@ def encode_rail_fence_cipher(string, n):
     return ''.join(result)
 
 
-def decode_rail_fence_cipher(string, n):
-    """
-    Solution solved with the help of:
-    https://www.geeksforgeeks.org/rail-fence-cipher-encryption-decryption/
-    """
+"""
+This can be solved by creating a x line rail
+after filling it iterate through the array to fil positions.
+dic = {
+    0: [x,x,x,x,x],
+    1: [x,x,x,x,x,x,x,x],
+    2: [x,x,x,x,x],
+}
 
+->
+dic = {
+    0: [a,b,c,d,e],
+    1: [x,x,x,x,x,x,x,x],
+    2: [x,x,x,x,x],
+}
+
+The last step is adding them to the correct position in the
+result list.
+"""
+
+
+def decode_rail_fence_cipher(string, n):
     if n == 1:
         return string
 
-    rail = [['\n' for _ in range(len(string))]
-            for _ in range(n)]
-    dir_down = None
-    row, col = 0, 0
-    index = 0
+    counter, dir = 0, 1
     result = []
+    dictionary = {i: [] for i in range(n)}
+
+    for i in range(len(string)):
+        dictionary[counter].append('')
+
+        if counter == 0:
+            dir = 1
+        elif counter == n - 1:
+            dir = 0
+
+        if dir:
+            counter += 1
+        else:
+            counter -= 1
+
+    i = 0
+    for index, j in enumerate(dictionary.values()):
+        new_list = []
+        for _ in j:
+            new_list.append(string[i])
+            i += 1
+
+        dictionary[index] = new_list
+
+    counter, dir = 0, 1
 
     for _ in range(len(string)):
-        if row == 0:
-            dir_down = True
-        if row == n - 1:
-            dir_down = False
-        rail[row][col] = '*'
-        col += 1
+        result.append(dictionary[counter][0])
+        dictionary[counter].pop(0)
 
-        if dir_down:
-            row += 1
+        if counter == 0:
+            dir = 1
+        elif counter == n - 1:
+            dir = 0
+
+        if dir:
+            counter += 1
         else:
-            row -= 1
+            counter -= 1
 
-    for i in range(n):
-        for j in range(len(string)):
-            if ((rail[i][j] == '*') and
-               (index < len(string))):
-                rail[i][j] = string[index]
-                index += 1
-
-    row, col = 0, 0
-    for _ in range(len(string)):
-
-        if row == 0:
-            dir_down = True
-        if row == n-1:
-            dir_down = False
-
-        if (rail[row][col] != '*'):
-            result.append(rail[row][col])
-            col += 1
-
-        if dir_down:
-            row += 1
-        else:
-            row -= 1
-
-    return "".join(result)
+    return ''.join(result)
