@@ -55,6 +55,7 @@
 - [The Observed PIN](4KYU/TheObservedPIN.py) - [Codewars](https://www.codewars.com/kata/5263c6999e0f40dee200059d)
 - [Permutations](4KYU/Permutations.py) - [Codewars](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
 - [Sum Of Intervals](4KYU/SumOfIntervals.py) - [Codewars](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
+- [Strings Mix](4KYU/StringsMix.py) - [Codewars](https://www.codewars.com/kata/5629db57620258aa9d000014)
 
 
 ### <a name="3KYU">3 KYU</a>

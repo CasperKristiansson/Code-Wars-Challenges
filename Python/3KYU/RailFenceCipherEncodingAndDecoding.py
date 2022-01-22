@@ -38,28 +38,26 @@ def encode_rail_fence_cipher(string, n):
     return ''.join(result)
 
 
-"""
-This can be solved by creating a x line rail
-after filling it iterate through the array to fil positions.
-dic = {
-    0: [x,x,x,x,x],
-    1: [x,x,x,x,x,x,x,x],
-    2: [x,x,x,x,x],
-}
-
-->
-dic = {
-    0: [a,b,c,d,e],
-    1: [x,x,x,x,x,x,x,x],
-    2: [x,x,x,x,x],
-}
-
-The last step is adding them to the correct position in the
-result list.
-"""
-
-
 def decode_rail_fence_cipher(string, n):
+    """
+    This can be solved by creating a x line rail
+    after filling it iterate through the array to fil positions.
+    dic = {
+        0: [x,x,x,x,x],
+        1: [x,x,x,x,x,x,x,x],
+        2: [x,x,x,x,x],
+    }
+
+    ->
+    dic = {
+        0: [a,b,c,d,e],
+        1: [x,x,x,x,x,x,x,x],
+        2: [x,x,x,x,x],
+    }
+
+    The last step is adding them to the correct position in the
+    result list.
+    """
     if n == 1:
         return string
 
