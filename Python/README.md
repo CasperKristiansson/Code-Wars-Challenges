@@ -27,6 +27,7 @@
 - [Find the Odd Int](6KYU/FindTheOddInt.py) - [Codewars](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 - [Array.Diff](6KYU/Array.Diff.py) - [Codewars](https://www.codewars.com/kata/523f5d21c841566fde000009)
 - [Who Likes It?](6KYU/WhoLikesIt.py) - [Codewars](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
+- [Mexican Wave](6KYU/MexicanWave.py) - [Codewars](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/train/python)
 
 ### <a name="5KYU">5 KYU</a>
 - [Directions Reduction](5KYU/DirectionsReduction.py) - [Codewars](https://www.codewars.com/kata/550f22f4d758534c1100025a)
