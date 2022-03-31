@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 func FindOdd(seq []int) int {
 	m := make(map[int]int)
 
@@ -20,10 +18,4 @@ func FindOdd(seq []int) int {
 	}
 
 	return 0
-}
-
-func main() {
-	fmt.Println("Running test")
-	result := Multiple3And5(10)
-	fmt.Println(result)
 }

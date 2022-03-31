@@ -11,3 +11,9 @@
 ### <a name="6KYU">6 KYU</a>
 - [Create Phone Number](6KYU/CreatePhoneNumber.go) - [Codewars](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 - [Find The Parity Outlier](6KYU/FindTheParityOutlier.go) - [Codewars](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
+- [Multiple Of 5 or 3](6KYU/MultipleOf5Or3.go) - [Codewars](https://www.codewars.com/kata/514b92a657cdc65150000006)
+- [Find the odd int](6KYU/FindTheOddInt.go) - [Codewars](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+- [Stop gninnipS My sdroW!](6KYU/StopGninnipsMySdroW.go) - [Codewars](https://www.codewars.com/kata/5264d2b162488dc400000001)
+
+### <a name="5KYU">5 KYU</a>
+- [Moving Zeros To The End](5KYU/MovingZerosToTheEnd.go) - [Codewars](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
